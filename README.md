@@ -1,8 +1,20 @@
-# AC2-ToDoList
-Atividade realizada para contemplar a nota da avaliação AC2. Se trata de uma aplicação onde é possível adicionar, editar e excluir seus deveres, tudo isso vinculado ao banco de dados FireBase.
+🎯**Aplicativo To Do List**
 
-## Usuário cadastrado para realizar o teste da aplicação:
-### Usuário
-- usuário: thiago.android@hotmail.com;
-### Senha
-- thiago;
+Aplicativo para organizar as atividades em formato de lista com banco de dados cloud.
+
+💻**Construção**
+
+Java 
+
+Android Studio
+
+Firebase
+
+Usuário: teste@gmail.com
+Senha: teste123
+
+
+
+
+
+
